@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: "Glory";
+    src: url("fonts/Glory-Regular.ttf");
+}
+
+body{
+    background-color: #644141;
+    backdrop-filter: op;
+    
+    font-family: 'Glory';
+}
+
+img{
+    border: 5px solid #62959C;
+    border-radius: 25px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+hr{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 70%;
+}
