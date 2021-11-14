@@ -1,4 +1,3 @@
-apt-clone==0.2.1
 apturl==0.5.2
 argon2-cffi==20.1.0
 asgiref==3.4.1
