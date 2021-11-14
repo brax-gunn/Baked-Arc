@@ -19,6 +19,7 @@ for item in df['Items'].unique():
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.GRID]) 
 app.title = 'Baked-Arc'
+server = app.server
 
 emptyFig = go.Figure(
     data=None,
